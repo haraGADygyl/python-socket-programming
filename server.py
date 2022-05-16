@@ -43,4 +43,11 @@ def start():
 
 
 print("[STARTING] server is starting...")
-start()
+
+
+def main():
+    start()
+
+
+if __name__ == '__main__':
+    main()
